@@ -4,7 +4,7 @@ An AI-powered tutoring assistant built for Italian students, created by a 14-yea
 
 Live Demo: mineai-teach.streamlit.app
 
-🤖 What is MineAI?
+🤖 What is MineAI?.
 MineAI is a web-based AI assistant designed to help students with homework, research, and learning. It combines multiple AI models with real-time web search to provide accurate, up-to-date answers.
 
 ⚠️ Note: The AI interface and responses are in Italian, as MineAI is built for Italian students.
