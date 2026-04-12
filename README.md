@@ -7,7 +7,7 @@ Live Demo: mineai-teach.streamlit.app
 🤖 What is MineAI?.
 MineAI is a web-based AI assistant designed to help students with homework, research, and learning. It combines multiple AI models with real-time web search to provide accurate, up-to-date answers.
 
-⚠️ Note: The AI interface and responses are in Italian, as MineAI is built for Italian students.
+⚠️ Note: The AI interface and responses are in Italian, as MineAI is built for Italian students, but the language of AI change based on your own (may have some bugs)
 
 
 ✨ Features
