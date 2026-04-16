@@ -1,6 +1,6 @@
 # 🎓 MineAI Tutor
 
-An AI-powered tutoring assistant built for students, created by a 14-year-old developer from Italy.
+An AI-powered tutoring assistant built for students, created by a 15-year-old developer from Italy.
 
 **Live Demo:** [mineai-teach.streamlit.app](https://mineai-teach.streamlit.app)
 
